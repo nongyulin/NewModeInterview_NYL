@@ -1,0 +1,19 @@
+# First make sure to update pip:
+#     $ sudo pip install --upgrade pip
+#
+# Then install these requirements:
+#     $ pip install --upgrade -r requirements.txt
+#
+# Finally, start jupyter:
+#     $ jupyter notebook
+#
+
+
+##### Core scientific packages
+jupyter
+matplotlib
+numpy
+pandas
+scipy
+
+
