@@ -7,7 +7,8 @@ Short data analysis of Represent Civic Information.
 Please run `pip install -r requirements.txt` to install required packages.
 
 ## 1 Data files contained in './dataFile':
-All data files are collected from `https://represent.opennorth.ca/data/`.
+All data files are collected from https://represent.opennorth.ca/data/
+Plesae refer to https://represent.opennorth.ca/api/ for further application of ` Represent Civic Information API`.
 * Candidates : 
 	+ House of Commons : Candidates-house-of-commons.csv  (1)
 * Representatives : 
